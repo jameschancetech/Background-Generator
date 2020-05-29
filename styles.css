@@ -34,3 +34,21 @@ h3 {
   letter-spacing: 0.01em;
 
 }
+
+
+.random-button {
+  font: 900 1em 'Raleway', sans-serif;
+  color: rgba(0,0,0,.5);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0.01em;
+  background-color: none;
+  border: 1px solid rgba(0,0,0,.5);
+  margin: 2em;
+  padding: 1em 5em;
+}
+
+.random-button:hover {
+  background-color: rgba(0,0,0,.5);
+  color: rgba(255,255,255, .5)
+}
